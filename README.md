@@ -1,4 +1,7 @@
-# MusicToLyrics
+# Singing-voice separation
+
+Project for the course DT2119 Speech and Speaker Recognition offered by KTH in 2018.
+
 The project in inspired by [1].
 
 Execution instructions:
